@@ -45,7 +45,7 @@ function getNumber(){
     highScoreUpdater();
     attempts();
 
-    document.getElementById("result").innerHTML = randNum;
+    document.getElementById("result").innerHTML = result;
     
 }
 
